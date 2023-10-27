@@ -1,0 +1,12 @@
+{
+    "name": "GMAP Link",
+    "script": "GMAP Link.js",
+    "version": "1.0",
+    "previousversions": [],
+    "description": "This API mimics movement for all tokens for each character on maps with the same prefix, separated from the map name by a colon (:)",
+    "authors": "Jeffrey Simons",
+    "roll20userid": "4069317",
+    "useroptions": [],
+    "dependencies": [],
+    "conflicts": []
+}
